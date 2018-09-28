@@ -1,0 +1,3 @@
+#aad
+./bash/
+work
